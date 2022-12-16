@@ -22,7 +22,7 @@ The application requires:
 * Target SDK: 32 (Android 11+)
 
 ## Screenshots
-<img src=screenshots/screen1.png width = "300"><img src=screenshots/screen2.png width = "300">
+<img src=screenshots/screen1.png width = "300">  <img src=screenshots/screen2.png width = "300">
 
 
 
